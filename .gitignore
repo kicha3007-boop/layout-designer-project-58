@@ -1,0 +1,8 @@
+node_modules/
+dist/
+.surge/
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+*.log
